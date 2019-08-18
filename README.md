@@ -1,5 +1,5 @@
 # Hangman
-A Classic hangman game without using graphics
+A Classic hangman game without using graphics. Run the source code in the repository to play.
 Rules are same as always.
 Things to note:
 1. You get 8 guesses.
